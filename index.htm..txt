@@ -1,0 +1,150 @@
+<body>
+
+    <!-- ===========================
+         HEADER
+    ============================ -->
+
+    <header class="header">
+
+        <div class="container nav-container">
+
+            <a href="#" class="logo">
+                Social<span>VertexX</span>
+            </a>
+
+            <nav class="navbar" id="navbar">
+
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#services">Services</a>
+                <a href="#portfolio">Portfolio</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#contact">Contact</a>
+
+            </nav>
+
+            <a href="#contact" class="nav-btn">
+                Book a Call
+            </a>
+
+            <button class="menu-toggle" id="menu-toggle">
+                ☰
+            </button>
+
+        </div>
+
+    </header>
+
+    <!-- ===========================
+         HERO
+    ============================ -->
+
+    <section class="hero" id="home">
+
+        <div class="hero-overlay"></div>
+
+        <div class="container hero-grid">
+
+            <div class="hero-content">
+
+                <span class="hero-badge">
+                    🚀 Social Media Marketing Agency
+                </span>
+
+                <h1>
+
+                    Scale Your Business
+                    with Social Media
+                    That Converts
+
+                </h1>
+
+                <p>
+
+                    We help ambitious brands increase visibility,
+                    generate qualified leads,
+                    and turn followers into loyal customers through
+                    strategic social media marketing.
+
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="#contact" class="btn-primary">
+                        Book a Free Strategy Call
+                    </a>
+
+                    <a href="#services" class="btn-secondary">
+                        Explore Services
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="hero-image">
+
+                <div class="dashboard-card">
+
+                    <h3>Campaign Performance</h3>
+
+                    <div class="metric">
+                        <span>Reach</span>
+                        <strong>3.2M</strong>
+                    </div>
+
+                    <div class="metric">
+                        <span>Engagement</span>
+                        <strong>+245%</strong>
+                    </div>
+
+                    <div class="metric">
+                        <span>ROAS</span>
+                        <strong>8.4x</strong>
+                    </div>
+
+                    <div class="metric">
+                        <span>Leads</span>
+                        <strong>1,280</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ===========================
+         TRUSTED BY
+    ============================ -->
+
+    <section class="trusted">
+
+        <div class="container">
+
+            <p class="trusted-title">
+                Trusted Marketing Strategies Across Today's Leading Platforms
+            </p>
+
+            <div class="trusted-logos">
+
+                <div>Instagram</div>
+                <div>Facebook</div>
+                <div>TikTok</div>
+                <div>LinkedIn</div>
+                <div>YouTube</div>
+                <div>Google Ads</div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- More sections coming next... -->
+
+    <script src="js/script.js"></script>
+
+</body>
